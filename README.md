@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kasun@kasunjayawardhana.com**
 
-- 👨‍💻 Take a Tour [www.kasunjayawardhana.com](www.kasunjayawardhana.com)
+- 👨‍💻 Take a Tour <a href="https://www.kasunjayawardhana.com" target="blank">www.kasunjayawardhana.com</a>
 
 - ⚡ Fun fact **funny**
 
