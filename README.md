@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **Frameworks, languages, courses**
 
-- 📫 How to reach me **kasun@kasunjayawardhana.com**
+- 📫 How to reach me kasun@kasunjayawardhana.com
 
-- 👨‍💻 Take a Tour <a href="https://www.kasunjayawardhana.com" target="blank">www.kasunjayawardhana.com</a>
+- 👨‍💻 Take a Tour <a href="https://www.kasunjayawardhana.com" target="blank">**www.kasunjayawardhana.com**</a>
 
 - ⚡ Fun fact **funny**
 
