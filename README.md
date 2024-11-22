@@ -35,5 +35,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayawardhanadskp&" alt="jayawardhanadskp" /></p>
 
 <p align="left"> 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jayawardhanadskp&theme=algolia)]()
+  <img src="https://github-profile-trophy.vercel.app/?username=jayawardhanadskp&theme=algolia" alt="jayawardhanadskp" />
 </p>
