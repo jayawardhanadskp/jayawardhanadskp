@@ -34,4 +34,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayawardhanadskp&show_icons=true&locale=en&layout=compact" alt="jayawardhanadskp" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayawardhanadskp&" alt="jayawardhanadskp" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayawardhanadskp" alt="jayawardhanadskp" /></a> </p>
+<p align="left"> 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jayawardhanadskp&theme=algolia)]()
+</p>
